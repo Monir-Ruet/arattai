@@ -1,0 +1,23 @@
+User-agent: *
+allow   :/latest
+Disallow:/trending
+Disallow:/comedy/
+Disallow:/romance
+Disallow:/drama
+Disallow:/thriller
+Disallow:/fantasy
+Disallow:/horror
+Disallow:/action
+Disallow:/war
+Disallow:/crime
+Disallow:/adventure
+Disallow:/animation
+Disallow:/sport
+Disallow:/documentary
+Disallow:/music
+Disallow:/western
+Disallow:/family
+Disallow:/mystery
+
+Sitemap: https://fukmovies.rocks/sitemap.xml
+Sitemap: https://fukmovies.rocks/sitemap1.xml
